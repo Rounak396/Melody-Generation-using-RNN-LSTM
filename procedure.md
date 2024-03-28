@@ -11,3 +11,4 @@ Basically, we start with a seed melody and fit into the model and the model then
 # Why do we use RNN LSTM?
 1. Melodies have long-term structural pattern.
 2. LSTMs can capture long-term temporal dependencies.
+
